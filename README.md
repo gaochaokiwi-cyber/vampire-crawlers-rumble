@@ -79,3 +79,7 @@ dotnet run --project .\tests\WaveformSmoke.csproj -c Release
 - `CHANGELOG.md`：版本变更；`LICENSE`：MIT 许可。
 
 参考了 [CyberKomodo.DualSense](https://github.com/CyberKomodo/CyberKomodo.DualSense) 关于 Unity DualSense 接口的实践，以及 [BepInEx IL2CPP 插件文档](https://docs.bepinex.dev/master/articles/dev_guide/plugin_tutorial/2_plugin_start.html)。未引入这些项目的代码或二进制。
+
+AI 使用声明 / AI-assisted development
+本插件的代码、文档和测试在 AI 辅助下编写与修改。项目维护者审查了发布内容，并使用 DualSense 手柄进行了游戏内测试。
+The code, documentation, and tests were developed with AI assistance. The maintainer reviewed the release and tested the plugin in-game with a DualSense controller.
